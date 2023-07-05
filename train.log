@@ -1,0 +1,4 @@
+INFO:__main__:2023-06-20 22:21:42
+INFO:__main__:Namespace(L=50, T=1, batch_size=2048, bert_dropout=0.1, bert_hidden_units=50, bert_mask_prob=0, bert_max_len=50, bert_num_blocks=2, bert_num_heads=2, bert_num_items=12101, d=50, l2=0, learning_rate=0.001, model_init_seed=0, n_iter=100, seed=1234)
+INFO:__main__:Total training records:150114
+INFO:__main__:Epoch 1 [379.6 s]  loss=44.4341
